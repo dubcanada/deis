@@ -7,3 +7,4 @@ config
 .. automethod:: client.deis.DeisClient.config_list
 .. automethod:: client.deis.DeisClient.config_set
 .. automethod:: client.deis.DeisClient.config_unset
+.. automethod:: client.deis.DeisClient.config_pull
